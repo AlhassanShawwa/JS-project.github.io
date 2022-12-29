@@ -1,0 +1,33 @@
+#Games{
+    width:50%;
+    font-family:monospace;
+    font-size: larger;
+    border:1px dotted pink;
+    padding:20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 1.4cm;
+    background-color: aqua;
+
+}
+p strong{
+font-size: 35px;
+}
+.choicebtn{
+    line-height: 1.2cm;
+    border-radius: 80%;
+    padding:10px;
+    cursor: pointer;
+    margin: 10px;
+    }
+#btn1{
+    background-color: red;
+}
+#btn2{
+    background-color: rgb(181, 253, 72);
+}
+#btn3{
+    background-color: rgb(79, 79, 232);
+}
